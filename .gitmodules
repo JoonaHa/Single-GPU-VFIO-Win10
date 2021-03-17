@@ -7,3 +7,9 @@
 [submodule "windows_guest/Windows10Debloater"]
 	path = windows_guest/Windows10Debloater
 	url = https://github.com/Sycnex/Windows10Debloater
+[submodule "windows_guest/btrfs"]
+	path = windows_guest/btrfs
+	url = https://github.com/maharmstone/btrfs
+[submodule "windows_guest/virtio-win-pkg-scripts"]
+	path = windows_guest/virtio-win-pkg-scripts
+	url = https://github.com/virtio-win/virtio-win-pkg-scripts

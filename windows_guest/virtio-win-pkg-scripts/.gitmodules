@@ -1,3 +1,0 @@
-[submodule "virtio-win-guest-tools-installer"]
-	path = virtio-win-guest-tools-installer
-	url = https://github.com/virtio-win/virtio-win-guest-tools-installer
