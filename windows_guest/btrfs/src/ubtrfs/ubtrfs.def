@@ -1,0 +1,8 @@
+EXPORTS
+    ChkdskEx			PRIVATE
+    FormatEx			PRIVATE
+    GetFilesystemInformation	PRIVATE
+    SetSizes			PRIVATE
+    SetIncompatFlags		PRIVATE
+    SetCsumType			PRIVATE
+

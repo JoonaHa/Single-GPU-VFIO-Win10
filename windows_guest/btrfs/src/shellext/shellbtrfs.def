@@ -1,0 +1,25 @@
+EXPORTS
+    DllCanUnloadNow     	PRIVATE
+    DllGetClassObject   	PRIVATE
+    DllRegisterServer   	PRIVATE
+    DllUnregisterServer 	PRIVATE
+    DllInstall				PRIVATE
+    AddDeviceW			PRIVATE
+    RemoveDeviceW		PRIVATE
+    StartBalanceW		PRIVATE
+    PauseBalanceW		PRIVATE
+    StopBalanceW		PRIVATE
+    ShowScrubW			PRIVATE
+    ResetStatsW			PRIVATE
+    ShowPropSheetW		PRIVATE
+    RecvSubvolGUIW		PRIVATE
+    SendSubvolGUIW		PRIVATE
+    CreateSubvolW		PRIVATE
+    CreateSnapshotW		PRIVATE
+    ReflinkCopyW		PRIVATE
+    StartScrubW			PRIVATE
+    StopScrubW			PRIVATE
+    SendSubvolW			PRIVATE
+    RecvSubvolW			PRIVATE
+    ResizeDeviceW		PRIVATE
+    ShowChangeDriveLetterW	PRIVATE
