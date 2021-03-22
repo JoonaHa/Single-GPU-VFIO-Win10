@@ -9,7 +9,7 @@ or other application using the libvirt API.
   <name>win10-vfio</name>
   <uuid>c0ec1262-cc0b-425c-b05f-155887d29ab5</uuid>
   <memory unit='KiB'>13541376</memory>
-  <currentMemory unit='KiB'>4194304</currentMemory>
+  <currentMemory unit='KiB'>13541376</currentMemory>
   <memoryBacking>
     <hugepages>
       <page size='2048' unit='KiB'/>
